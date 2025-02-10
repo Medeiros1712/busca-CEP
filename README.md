@@ -1,6 +1,6 @@
 # BuscaCEP
 
-🚀 **BuscaCEP** é um aplicativo web simples que permite consultar informações de um endereço a partir do CEP. Utiliza a API do [ViaCEP](https://viacep.com.br/) para buscar os dados.
+🚀 **BuscaCEP** é uma aplicação web simples que permite consultar informações de um endereço a partir do CEP. Utiliza a API do [ViaCEP](https://viacep.com.br/) para buscar os dados.
 
 ## 📌 Funcionalidades
 - 🔍 Busca de informações a partir de um CEP digitado.
